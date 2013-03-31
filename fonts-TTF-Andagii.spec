@@ -1,5 +1,5 @@
 Summary:	Free TrueType font for Osmanya, Ugaritic and Shavian scripts
-Summary(pl.UTF-8):	Wolnodostępny font TrueType dlapism: osmanija, ugaryckiego i Shawa
+Summary(pl.UTF-8):	Wolnodostępny font TrueType dla pism: osmanija, ugaryckiego i Shawa
 Name:		fonts-TTF-Andagii
 Version:	1.0
 Release:	1
